@@ -48,6 +48,7 @@ type_tags:
 is_requires_admin_user: false
 is_always_run: false
 is_skippable: false
+timeout: 10
 inputs:
   - content: |-
       #!/usr/bin/env bash
